@@ -1,0 +1,5 @@
+﻿l_english:
+ c3_test.1.t: "Satire Journalism"
+ c3_test.1.d: "A Boom of Caricature Art"
+ c3_test.1.f: ""The #variable $ig_intelligentsia$#! of [ROOT.GetCountry.GetName] are upset with the increasing authoritarianism of [ROOT.GetCountry.GetRuler.GetTitle] [ROOT.GetCountry.GetRuler.GetFirstName].\n\nThose skeptics of the July Monarchy have now begun publishing satire journals, under names such as #S La Caricature#! and #S Le Charivari#! mocking the social milieu.\n\nAn age of art as a political instrument is upon us."
+ c3_test.1.a: "A little humor never hurt anyone!"

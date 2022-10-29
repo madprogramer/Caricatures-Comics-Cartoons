@@ -1,0 +1,37 @@
+﻿namespace = c3_test
+
+# C3 Test Event
+c3_test.1 = {
+  type = country_event
+  placement = ROOT
+  title = c3_test.1.t
+  desc = c3_test.1.d
+  flavor = c3_test.1.f
+
+  duration = 3
+  trigger = {
+  }
+
+  immediate = {
+    ig:ig_intelligentsia = { save_scope_as = intelligentsia_ig }
+  }
+
+
+  event_image = {
+    texture = "gfx/c3/C3_LE_CHARIVARI.dds"
+  }
+
+  on_created_soundeffect = "event:/SFX/UI/Alerts/event_appear"
+  on_opened_soundeffect = "event:/SFX/Events/unspecific/leader_speaking_to_a_group_of_people"
+
+  icon = "gfx/C3/C3_LE_CHARIVARI.dds"
+
+  option = {
+    name = c3_test.1.a
+        default_option = yes
+    ai_chance = {
+      base = 100
+    }
+  }
+
+}

@@ -1,0 +1,12 @@
+{
+  "name" : "Caricatures-Comics-Cartoons",
+  "id" : "",
+  "version" : "0.1",
+  "supported_game_version" : "",
+  "short_description" : "A Flavor Mod on Satirical Art in the Victorian Era",
+  "tags" : [],
+  "relationships" : [],
+  "game_custom_data" : {
+    "multiplayer_synchronized" : true
+  }
+}
