@@ -33,3 +33,4 @@
 * https://en.wikipedia.org/wiki/July_Monarchy (Need to study English attitude, so don't go French-sources only)
 * https://en.wikipedia.org/wiki/Caricature
 * BK2 Video Conversion http://www.radgametools.com/bnkdown.htm
+* An **entire** YouTube channel dedicated to the history of French Caricature (from 15th-early 19th century). Still going, may look into collaboration :) https://www.youtube.com/channel/UC3MslRV9wXnmIekzqFuZpQw
