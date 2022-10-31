@@ -11,7 +11,6 @@
 * Attacks Laws: Monarchy, Outlawed Dissent and Censorship
 * Friendly IG: Rural Folk, Trade Unions?
 * Opposed IG: Bourgeoisie, Industrialists, Devout
-*
 * 
 * IDEAS: 
 * Charles Philipon could be a potential IG leader through event.
@@ -22,6 +21,9 @@
 	- This modifier may then spread to other countries
 		+ Affected countries should also unlock a similar journal entry chain.
 * Attitude after 1848 is very difficult to predict without studying history
+
+## Other Oddities:
+* "he Making of Persianate Modernity" https://twitter.com/yakabikaj/status/1587068369743683584
 
 ### References
 
