@@ -22,6 +22,7 @@
 	- This modifier may then spread to other countries
 		+ Affected countries should also unlock a similar journal entry chain.
 * Attitude after 1848 is very difficult to predict without studying history
+  * If Bonapartists triumphant, Caricature MUST remain a relevant voice against Napoleon III
 
 ## Movements to be Added
 
