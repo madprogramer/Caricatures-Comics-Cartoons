@@ -1,0 +1,69 @@
+﻿namespace = c3_alt_french_caricature
+
+# Alternative Events for French Caricature if France Ceases to Exist or similar shenanigans
+# to keep immersion going
+
+# C3 French Caricatures
+#c3_alt_french_caricature.1 = {
+#  # Spawns French Caricatures in France
+#  type = country_event
+#  placement = ROOT
+#  title = c3_test.1.t
+#  desc = c3_test.1.d
+#  flavor = c3_test.1.f
+#
+#  duration = 3
+#  trigger = {
+#  }
+#
+#  immediate = {
+#    ig:ig_intelligentsia = { save_scope_as = intelligentsia_ig }
+#  }
+#
+#
+#  event_image = {
+#    texture = "gfx/c3/C3_LE_CHARIVARI.dds"
+#  }
+#
+#  immediate = {
+#    set_global_variable = {
+#      name = spanish_flu
+#    }
+#    set_variable = {
+#      name = plague_originator
+#    }
+#    random_scope_state = {
+#      limit = {
+#        is_incorporated = yes
+#        OR = {
+#          is_production_method_active = {
+#            building_type = building_railway
+#            production_method = pm_electric_trains
+#          }
+#          is_production_method_active = {
+#            building_type = building_railway
+#            production_method = pm_diesel_trains
+#          }
+#        }
+#      }
+#      save_scope_as = plague_origin_state
+#      set_variable = plague_originator_state
+#      randomize_plague_level_effect = yes
+#    }
+#  }
+#
+#  on_created_soundeffect = "event:/SFX/UI/Alerts/event_appear"
+#  on_opened_soundeffect = "event:/SFX/Events/unspecific/leader_speaking_to_a_group_of_people"
+#
+#  icon = "gfx/C3/C3_LE_CHARIVARI.dds"
+#
+#  option = {
+#    name = c3_test.1.a
+#        default_option = yes
+#    ai_chance = {
+#      base = 100
+#    }
+#  }
+#
+#}
+#

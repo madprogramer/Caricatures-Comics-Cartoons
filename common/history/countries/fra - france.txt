@@ -65,7 +65,7 @@
     }
 
     trigger_event = {
-      id = c3_test.1
+      id = c3_french_caricature.1
     }
 
   }
