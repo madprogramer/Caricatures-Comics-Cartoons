@@ -23,6 +23,14 @@
 		+ Affected countries should also unlock a similar journal entry chain.
 * Attitude after 1848 is very difficult to predict without studying history
   * If Bonapartists triumphant, Caricature MUST remain a relevant voice against Napoleon III
+  * Revolutions of 1848
+  * Daumier was a big deal
+  * Caricature Busts:  Dantan Jeune
+  * Franco-Prussian War did take a toll on publications which slowed down during the period
+  * International Politics became increasingly more important after the 1870s.
+  * Proliferation during the Paris Commune
+  * Heavy Censorship following the fall of the Paris Commune. Until...
+  * Loi sur la liberté de la presse du 29 juillet 1881: Granting great freedom to caricature and sociopolitical critique.
 
 ## Movements to be Added
 
