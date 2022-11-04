@@ -20,7 +20,8 @@ c3_test.1 = {
   event_image = {
     #texture = "gfx/c3/C3_LE_CHARIVARI.dds"
     #texture = "gfx/C3/maxbound.dds"
-    texture = "gfx/C3/Image_embed_test.dds"
+    #texture = "gfx/C3/Image_embed_test.dds"
+    texture = "gfx/C3/Image_embed_test2.dds"
   }
 
   on_created_soundeffect = "event:/SFX/UI/Alerts/event_appear"
