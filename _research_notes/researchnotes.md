@@ -31,6 +31,7 @@
   * Proliferation during the Paris Commune
   * Heavy Censorship following the fall of the Paris Commune. Until...
   * Loi sur la liberté de la presse du 29 juillet 1881: Granting great freedom to caricature and sociopolitical critique.
+  * Je sais tout & Arsène Lupin
 
 ## Movements to be Added
 
