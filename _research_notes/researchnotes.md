@@ -25,6 +25,7 @@
   * If Bonapartists triumphant, Caricature MUST remain a relevant voice against Napoleon III
   * Revolutions of 1848
   * Daumier was a big deal
+    * Ratapoil and other characters
   * Caricature Busts:  Dantan Jeune
   * Franco-Prussian War did take a toll on publications which slowed down during the period
   * International Politics became increasingly more important after the 1870s.
