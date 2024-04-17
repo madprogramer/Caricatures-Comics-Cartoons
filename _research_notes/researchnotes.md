@@ -65,7 +65,7 @@
 
 ### References
 
-* http://libbymurphy.com/humancomedy/content/tu-danseras-coquardeau/
+* A HISTORY OF CARICATURE AND GROTESQUE: https://www.gutenberg.org/files/44566/44566-h/44566-h.htm#Page_480
 * https://www.britannica.com/biography/Charles-Philipon#ref51624
 * https://www.ub.uni-heidelberg.de/Englisch/helios/fachinfo/www/kunst/digilit/artjournals/charivari.html
 * https://fr.wikipedia.org/wiki/Le_Charivari
